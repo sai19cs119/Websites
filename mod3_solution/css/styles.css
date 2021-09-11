@@ -2,7 +2,7 @@
 .nav-bg {
     background-color:darksalmon;
 }
-.navbar-brand {
+.navbar-default .navbar-brand {
     font-size: 2em;
     color:rgb(14, 14, 14);
 }
