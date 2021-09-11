@@ -1,0 +1,21 @@
+/* NAVBAR */
+.nav-bg {
+    background-color:darksalmon;
+}
+.navbar-brand.brandname {
+    font-size: 2em;
+    color:rgb(14, 14, 14);
+}
+.menu {
+    background-color:rgb(169, 169, 243);
+}
+.padding {
+    padding: 0vw 2vw;
+}
+
+/* MENULIST */
+@media (max-width: 767px) {
+  .navlist-bg {
+    background-color:mistyrose;
+  }
+}
