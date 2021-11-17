@@ -6,4 +6,4 @@ Projects
 * [mod5sol](https://sai19cs119.github.io/Websites/mod5_solution/)
 
 College Mini Project:
-* [W3FANDOM](https://sai19cs119.github.io/Websites/w3fandom/)
+* [W3FANDOM](https://sai19cs119.github.io/Websites/w3fandom/public/)
